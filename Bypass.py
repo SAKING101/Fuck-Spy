@@ -1,3 +1,3 @@
-from bypass-SPYVIP import main
+from SPYVIP import main
 
 main() 
